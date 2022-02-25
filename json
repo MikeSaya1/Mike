@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1645759084,
-      "filename": "signed-ota_update.zip",
-      "id": "31582cc88cf0b4c9d06e98430fa4dcb9",
+      "datetime": 1645809877,
+      "filename": "20220225-barbet-OFFICIAL-signed.zip",
+      "id": "2a03655e080e2b5439798f5175e648c0",
       "romtype": "unofficial",
-      "size": 938817109,
-      "url": "https://www.googleapis.com/drive/v3/files/1_e7mo9VkIADnINlfzaDwYWtEBlVcdnr2?alt=media&key=AIzaSyAJERNX1fuDAxBx3DXigofqVSiQHKo5X7s",
+      "size": 938817105,
+      "url": "https://www.googleapis.com/drive/v3/files/1r3wfg2RPpfFofoRW_fUz9wKkRGwmtifD?alt=media&key=AIzaSyAJERNX1fuDAxBx3DXigofqVSiQHKo5X7s",
       "version": "18.1"
     }
   ]

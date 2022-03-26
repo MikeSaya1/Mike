@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1648207103,
+      "datetime": 1648294737,
       "filename": "signed-ota_update.zip",
-      "id": "132640eef22e9a66c4ba44cea22e3d7d",
+      "id": "9f7bf1bcadc27bff30fb224ce932a50c",
       "romtype": "unofficial",
-      "size": 939266600,
-      "url": "https://www.googleapis.com/drive/v3/files/1LM_QmoVwWBeCByQKpZa9dRbDK13eFNcu?alt=media&key=AIzaSyAJERNX1fuDAxBx3DXigofqVSiQHKo5X7s",
+      "size": 939264844,
+      "url": "https://www.googleapis.com/drive/v3/files/11cysH8VGLGrASLPaW60X0MUFtEEywmwN?alt=media&key=AIzaSyAJERNX1fuDAxBx3DXigofqVSiQHKo5X7s",
       "version": "18.1"
     }
   ]

@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1648514064,
+      "datetime": 1648601013,
       "filename": "signed-ota_update.zip",
-      "id": "f3374b64b925fea17535c5baa60bd749",
+      "id": "3e6f42f821d0f2fd9f06e1d9351bbac6",
       "romtype": "unofficial",
-      "size": 939266760,
+      "size": 939266724,
       "url": "https://www.googleapis.com/drive/v3/files/11cysH8VGLGrASLPaW60X0MUFtEEywmwN?alt=media&key=AIzaSyAJERNX1fuDAxBx3DXigofqVSiQHKo5X7s",
       "version": "18.1"
     }

@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1652231275,
+      "datetime": 1652314252,
       "filename": "signed-ota_update.zip",
-      "id": "49737f9fe6b1143f06a5aa23711f932b",
+      "id": "5f2be626194807516f47e3b8e902e3e3",
       "romtype": "nightly",
-      "size": 1048911355,
+      "size": 1048927444,
       "url": "https://www.googleapis.com/drive/v3/files/1TzX59QsP4_IBPy39SQ-VM4bVa_j_MvPK?alt=media&key=AIzaSyAJERNX1fuDAxBx3DXigofqVSiQHKo5X7s",
       "version": "19.1"
     }

@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1653351032,
+      "filename": "signed-ota_update.zip",
+      "id": "62698f60132f26759cf82485dbd6e2e6",
+      "romtype": "unofficial",
+      "size": 1049566630,
+      "url": "https://www.googleapis.com/drive/v3/files/1TzX59QsP4_IBPy39SQ-VM4bVa_j_MvPK?alt=media&key=AIzaSyAJERNX1fuDAxBx3DXigofqVSiQHKo5X7s",
+      "version": "19.1"
+    }
+  ]
+}
